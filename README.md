@@ -28,7 +28,6 @@ Nothing is complete without screenshots :P
   <img src="./screenshots/splash_new.png" height="440px" />
   <img src="./screenshots/pin_new.png" height="440px" />
   <img src="./screenshots/home_new.png" height="440px" />
-  <img src="./screenshots/details.png" height="440px" />
   <img src="./screenshots/diceware.png" height="440px" />
   <img src="./screenshots/random.png" height="440px" />
   <img src="./screenshots/deletion_notice_new.png" height="440px" />
